@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "images": [
+    "https://mms.businesswire.com/media/20220516005886/zh-HK/810445/23/Conviva_Logo_2019_Main.jpg",
+    "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/mzspbvp0oqyarehuxdcz",
+    "https://mms.businesswire.com/media/20210730005563/zh-HK/895130/5/1200x600_%281%29.jpg"
+  ]
 }
